@@ -1,0 +1,61 @@
+State,Offer,Vehicle Class,Accepted,Declined
+Arizona,Offer 1,Sports Car,25098,2524
+Arizona,Offer 2,Four-Door Car,11542,4213
+Arizona,Offer 2,Luxury Car,17666,135
+Arizona,Offer 2,Luxury SUV,52902,2456
+Arizona,Offer 2,SUV,31370,643
+Arizona,Offer 2,Sports Car,87237,2467
+Arizona,Offer 2,Two-Door Car,49716,579
+Arizona,Offer 3,SUV,76734,4322
+Arizona,Offer 3,Luxury SUV,37078,456
+Arizona,Offer 4,Two-Door Car,18032,2345
+Arizona,Offer 4,Four-Door Car,25288,2145
+Arizona,Offer 4,Luxury Car,23657,2144
+California,Offer 1,Sports Car,27653,2651
+California,Offer 2,Four-Door Car,13746,4312
+California,Offer 2,Luxury Car,18635,235
+California,Offer 2,Luxury SUV,55642,2565
+California,Offer 2,SUV,34747,754
+California,Offer 2,Sports Car,91876,2672
+California,Offer 2,Two-Door Car,51272,765
+California,Offer 3,SUV,87282,4532
+California,Offer 3,Luxury SUV,38764,563
+California,Offer 4,Two-Door Car,19783,2455
+California,Offer 4,Four-Door Car,27763,2353
+California,Offer 4,Luxury Car,24536,2387
+Nevada,Offer 1,Sports Car,26541,2098
+Nevada,Offer 2,Four-Door Car,11524,4098
+Nevada,Offer 2,Luxury Car,17524,345
+Nevada,Offer 2,Luxury SUV,54134,2234
+Nevada,Offer 2,SUV,32516,768
+Nevada,Offer 2,Sports Car,89827,2345
+Nevada,Offer 2,Two-Door Car,50989,899
+Nevada,Offer 3,SUV,74353,4354
+Nevada,Offer 3,Luxury SUV,40735,642
+Nevada,Offer 4,Two-Door Car,16725,2098
+Nevada,Offer 4,Four-Door Car,26534,2034
+Nevada,Offer 4,Luxury Car,23535,2109
+Oregon,Offer 1,Sports Car,25434,1989
+Oregon,Offer 2,Four-Door Car,12876,3890
+Oregon,Offer 2,Luxury Car,16524,123
+Oregon,Offer 2,Luxury SUV,53425,2092
+Oregon,Offer 2,SUV,32341,687
+Oregon,Offer 2,Sports Car,91672,2202
+Oregon,Offer 2,Two-Door Car,48726,654
+Oregon,Offer 3,SUV,73546,4098
+Oregon,Offer 3,Luxury SUV,39872,345
+Oregon,Offer 4,Two-Door Car,15242,1989
+Oregon,Offer 4,Four-Door Car,25434,1876
+Oregon,Offer 4,Luxury Car,22636,2234
+Washington,Offer 1,Sports Car,30921,1876
+Washington,Offer 2,Four-Door Car,17657,3655
+Washington,Offer 2,Luxury Car,18726,45
+Washington,Offer 2,Luxury SUV,56818,1987
+Washington,Offer 2,SUV,36546,509
+Washington,Offer 2,Sports Car,90912,2087
+Washington,Offer 2,Two-Door Car,51234,500
+Washington,Offer 3,SUV,82434,3767
+Washington,Offer 3,Luxury SUV,45627,235
+Washington,Offer 4,Two-Door Car,17652,1657
+Washington,Offer 4,Four-Door Car,28726,1454
+Washington,Offer 4,Luxury Car,26546,1989
